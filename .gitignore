@@ -1,0 +1,6 @@
+
+#Ignore Certain files in public folder
+
+node_modules/
+dist/
+tmp/
